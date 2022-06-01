@@ -1,0 +1,37 @@
+.title {
+    color: rgb(143, 101, 10);
+    font-weight: bold;
+    text-align: center;
+    font-size: 55px;
+    background-color: whitesmoke;
+    background-image: url(rm125-ning-94b-frame.jpg);
+}
+
+.first {
+    color: red;
+    font-weight: lighter;
+    text-align: initial;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.second {
+    color: red;
+    font-weight: lighter;
+    text-align: initial;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.third {
+    color: red;
+    font-weight: lighter;
+    text-align: initial;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.gifnumber1{
+    height: auto;
+    width: 500px;
+}
